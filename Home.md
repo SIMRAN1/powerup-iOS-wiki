@@ -28,7 +28,7 @@ Superpowers associated with particular personality traits of the Avatar can be g
 ###Mini Games 			
 Spread throughout the game to tackle situations/topics in an indirect but playful manner. Giving a break from the main storyline, they would be associated with a timer and other features.
 
-##Features Implemented in iOS:
+##Implemented Features & Functionalities:
 
 1. Start Screen
 2. Clickable Map Screen
@@ -42,7 +42,6 @@ Spread throughout the game to tackle situations/topics in an indirect but playfu
 	 	
 
 ##Official Documentation
-
 https://docs.google.com/document/d/1WkhcVrUs-B_vlCBknNPYqxqc7_7wVrBF2pV0bKu_EiQ/edit?usp=sharing
 		
 
