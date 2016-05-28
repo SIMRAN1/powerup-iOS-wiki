@@ -13,28 +13,27 @@ Advocate development of self esteem and critical thinking through a gaming platf
 
 ##Project Design
  
-#Curriculum
+###Curriculum
 
 The game content is based on SEL Core Competencies (Self-awareness, Self- management, Social awareness, Relationship skills, Decision making).
 
-#Points
+###Points
 
 Points will be awarded throughout the storyline 	and minigames to encourage right decisions. They are assigned based on users’ ability to think critically, demonstrate self-esteem, and understanding of reproductive health. Points can be further used for purchasing new clothes/accessories or advancing to new levels.
 
-#Evolving Character 
+###Evolving Character 
 
 The Avatar,starting at age 13, would evolve to emulate corresponding storylines regarding puberty, aging, and self-esteem. 
 
-#Superpowers
+###Superpowers
 
 Superpowers associated with particular personality traits of the Avatar can be gained as and when new scenarios/challenges are presented before the Avatar. These superpowers would manifest in playful forms of positive attributes.
 
-#Mini Games
+###Mini Games
  			
 Spread throughout the game to tackle situations/topics in an indirect but playful manner. Giving a break from the main storyline, they would be associated with a timer and other features.
 
-			
-#Features Implemented in iOS:
+###Features Implemented in iOS:
 
 1. Start Screen
 2. Clickable Map Screen
@@ -47,7 +46,7 @@ Spread throughout the game to tackle situations/topics in an indirect but playfu
 9. SQLite database for storing the content and conversations
 	 	
 
-#Powerup-iOS: Official Documentation
+###Powerup-iOS: Official Documentation
 
 https://docs.google.com/document/d/1WkhcVrUs-B_vlCBknNPYqxqc7_7wVrBF2pV0bKu_EiQ/edit?usp=sharing
 		
