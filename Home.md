@@ -1,4 +1,4 @@
-#Welcome to the PowerUp wiki!
+#Welcome to the PowerUp-iOS wiki!
 
 ##What is PowerUp?
 
@@ -33,7 +33,7 @@ Superpowers associated with particular personality traits of the Avatar can be g
  			
 Spread throughout the game to tackle situations/topics in an indirect but playful manner. Giving a break from the main storyline, they would be associated with a timer and other features.
 
-###Features Implemented in iOS:
+##Features Implemented in iOS:
 
 1. Start Screen
 2. Clickable Map Screen
@@ -46,7 +46,7 @@ Spread throughout the game to tackle situations/topics in an indirect but playfu
 9. SQLite database for storing the content and conversations
 	 	
 
-###Powerup-iOS: Official Documentation
+##Powerup-iOS: Official Documentation
 
 https://docs.google.com/document/d/1WkhcVrUs-B_vlCBknNPYqxqc7_7wVrBF2pV0bKu_EiQ/edit?usp=sharing
 		
