@@ -41,7 +41,7 @@ Spread throughout the game to tackle situations/topics in an indirect but playfu
 9. SQLite database for storing the content and conversations
 	 	
 
-##Powerup-iOS: Official Documentation
+##Official Documentation
 
 https://docs.google.com/document/d/1WkhcVrUs-B_vlCBknNPYqxqc7_7wVrBF2pV0bKu_EiQ/edit?usp=sharing
 		
