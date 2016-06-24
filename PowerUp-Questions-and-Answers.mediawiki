@@ -1,8 +1,8 @@
 Please add your questions for PowerUp here:
 
-Question 1:
+Question 1: I'm new to PowerUp and want to contribute, where do I start? 
 
-Answer:
+Answer: First, read up on the project to get an idea what the project is about and run/test the code. Most of the meetings held are online on youtube for everyone to watch. Secondly, don't hesitate to contact contributers, mentors or post on Github if you have any doubts. When you feel ready to start coding, pick a very simple issue posted on Github or create a new issue that you came across during testing. In order to keep testing simple for mentors, try sending one PR (pull request) per issue.
 
 Question 2:
 
