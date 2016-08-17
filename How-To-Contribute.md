@@ -1,4 +1,4 @@
-We welcome anyone to contribute to this Open Source Project. For any further questions, please contact the assigned mentors. 
+We welcome anyone to contribute to this Open Source Project. For any further questions, please reach out to us on our slack channel.
 
 # Setup for Developers
 
