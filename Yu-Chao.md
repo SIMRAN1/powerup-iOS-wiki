@@ -117,6 +117,7 @@ At par with my schedule.
 1. Finalized the mechanics of Minesweeper game and finished implementing it.
 2. Wrote error handling code to manage database operation errors.
 3. Wrote unit tests for Minesweeper game.
+4. Reworked `ShopViewController`.
 
 **What issues or roadblocks have you encountered this week?**
 
