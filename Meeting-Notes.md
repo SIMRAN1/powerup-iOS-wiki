@@ -1,18 +1,18 @@
 ## Tuesday, June 27th
 
-Attendance: May, Yu, Ginny, Jennifer
+**Attendance:** May, Yu, Ginny, Jennifer
 
 **Reminder:**
-2 Reviews needed per PR
-2nd Reviewer (merges PR)
+- 2 Reviews needed per PR
+- 2nd Reviewer (merges PR)
 
 
-Yu:
-What did you work on last week?
+**Yu:**
+1. What did you work on last week?
 - Minesweeper levels and tests for the game.
-What will you work on this week?
+2. What will you work on this week?
 - Tests for older features. Configuring Travis CI.
-Any obstacles or blocks keeping you from moving forward?
+3. Any obstacles or blocks keeping you from moving forward?
 - No.
 
 **Action Items:**
