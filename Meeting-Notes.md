@@ -1,3 +1,5 @@
+## Tuesday, June 27th
+
 Attendance: May, Yu, Ginny, Jennifer
 
 **Reminder:**
