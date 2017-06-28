@@ -142,3 +142,34 @@ Probably the prototype of Sink to Swim game.
 **How does your progress compare to your project schedule?**
 
 Same as my schedule.
+
+***
+### Weekly Status Report for Week 5
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+1. Completed Travis CI configuration.
+
+**What issues or roadblocks have you encountered this week?**
+
+-
+
+**Have they been resolved, and if so, how?**
+
+-
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+-
+
+**Is further assistance necessary to resolve existing issues?**
+
+-
+
+**What do you plan to accomplish next week?**
+
+-
+
+**How does your progress compare to your project schedule?**
+
+-
