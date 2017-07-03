@@ -149,27 +149,29 @@ Same as my schedule.
 **What have you accomplished this week (list specific items accomplished)?**
 
 1. Completed Travis CI configuration.
+2. Wrote unit tests for previous code (view controllers, database accessor, database entries).
 
 **What issues or roadblocks have you encountered this week?**
 
--
+* Don't know if I should create a separate database for unit testing or not.
+* Have trouble creating mock data for testing view controllers.
 
 **Have they been resolved, and if so, how?**
 
--
+Yes they are resolved. I discussed the first issue with my mentors and they decided that the original database could be used for unit tests, but I have to make sure that the data won't be altered after the unit tests. For the second issue, I found a perfect solution on the internet -- use inheritance to make all data providing classes have the same interface, then I can simply switch which data provider to use when performing unit tests.
 
 **Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
 
--
+They are all resolved.
 
 **Is further assistance necessary to resolve existing issues?**
 
--
+No.
 
 **What do you plan to accomplish next week?**
 
--
+The *Swim to Drawn* mini game.
 
 **How does your progress compare to your project schedule?**
 
--
+The work done this week isn't included in my original schedule since we have decided a new schedule.
