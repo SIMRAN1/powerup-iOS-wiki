@@ -175,3 +175,34 @@ The *Swim to Drawn* mini game.
 **How does your progress compare to your project schedule?**
 
 The work done this week isn't included in my original schedule since we have decided a new schedule.
+
+***
+### Weekly Status Report for Week 6
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+1. 
+2. 
+
+**What issues or roadblocks have you encountered this week?**
+
+
+
+**Have they been resolved, and if so, how?**
+
+
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+
+
+**Is further assistance necessary to resolve existing issues?**
+
+
+
+**What do you plan to accomplish next week?**
+
+
+
+**How does your progress compare to your project schedule?**
+
