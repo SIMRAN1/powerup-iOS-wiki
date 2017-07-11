@@ -181,28 +181,31 @@ The work done this week isn't included in my original schedule since we have dec
 
 **What have you accomplished this week (list specific items accomplished)?**
 
-1. 
-2. 
+1. Applied Kim's UI designs to the game.
+2. Prototyped Sink to Swim mini game.
+3. Resized graphical assets so iOS simulators could successfully render them.
 
 **What issues or roadblocks have you encountered this week?**
 
-
+No.
 
 **Have they been resolved, and if so, how?**
 
-
+N/A
 
 **Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
 
-
+No.
 
 **Is further assistance necessary to resolve existing issues?**
 
-
+No.
 
 **What do you plan to accomplish next week?**
 
-
+* Finish Sink to Swim game, write unit tests and documentation for it.
+* Write and modify the game design document.
 
 **How does your progress compare to your project schedule?**
 
+About the same as the schedule.
