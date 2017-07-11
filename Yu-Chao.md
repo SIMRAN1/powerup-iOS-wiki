@@ -1,4 +1,16 @@
 # Yu Chao
+
+## Work Hours
+| Days  | Hours (UTC+8) | Meeting | Tool |
+| ----- | ----------- | ------- | ---- |
+| Monday  | 9:30 - 12:30, 14:00 - 18:00  | N/A | Slack |
+| Tuesday  | 9:30 - 12:30, 14:00 - 18:00 | Powerup-iOS | Slack |
+| Wednesday  | 9:30 - 12:30, 14:00 - 18:00 | All Teams PWR, 1:1 May | Slack |
+| Thursday  | 9:30 - 12:30, 14:00 - 18:00 | N/A | Slack |
+| Friday  | 9:30 - 12:30, 14:00 - 18:00 | N/A | Slack |
+| Saturday  | REST | N/A | --- |
+| Sunday  | REST  | N/A | --- |
+
 ## Short Bio
 
 I am a second year computer science major at the Chinese University of Hong Kong. I am enthusiastic about the fields where art and technology meet, particularly, digital game design and development. Aside from programming, I  enjoy drawing and writing in my free time.
