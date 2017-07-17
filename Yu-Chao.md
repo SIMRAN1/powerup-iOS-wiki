@@ -182,7 +182,7 @@ No.
 
 **What do you plan to accomplish next week?**
 
-The *Swim to Drawn* mini game.
+The *Sink to Swim* mini game.
 
 **How does your progress compare to your project schedule?**
 
@@ -227,7 +227,11 @@ About the same as the schedule.
 
 **What have you accomplished this week (list specific items accomplished)?**
 
-
+1. Added animation and ending scene to Sink to Swim mini game.
+2. Updated UI elements (Dialogue boxes, Karma motif, background image for scenarios, font color, home button icon).
+3. Wrote unit tests for Sink to Swim mini game.
+4. Wrote documentation for Sink to Swim mini game.
+5. 
 
 **What issues or roadblocks have you encountered this week?**
 
@@ -250,4 +254,3 @@ About the same as the schedule.
 
 
 **How does your progress compare to your project schedule?**
-
