@@ -13,7 +13,7 @@
 
 ## Short Bio
 
-I am a second year computer science major at the Chinese University of Hong Kong. I am enthusiastic about the fields where art and technology meet, particularly, digital game design and development. Aside from programming, I  enjoy drawing and writing in my free time.
+I am a second year computer science major at the Chinese University of Hong Kong. I am enthusiastic about the fields where art and technology meet, particularly, digital game design and development. Aside from programming, I  enjoy drawing and writing.
 
 ## Profile Links
 [Gmail](mailto:casd82@gmail.com) | [My Blog](http://shinerightstudio.com) | [GitHub](http://github.com/casd82) | [LinkedIn](https://www.linkedin.com/in/佑-趙-a55b85b2/) | [Facebook](https://www.facebook.com/casd82.yuchao)
@@ -221,3 +221,33 @@ No.
 **How does your progress compare to your project schedule?**
 
 About the same as the schedule.
+
+***
+### Weekly Status Report for Week 7
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+
+
+**What issues or roadblocks have you encountered this week?**
+
+
+
+**Have they been resolved, and if so, how?**
+
+
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+
+
+**Is further assistance necessary to resolve existing issues?**
+
+
+
+**What do you plan to accomplish next week?**
+
+
+
+**How does your progress compare to your project schedule?**
+
