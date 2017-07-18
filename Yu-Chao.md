@@ -231,26 +231,28 @@ About the same as the schedule.
 2. Updated UI elements (Dialogue boxes, Karma motif, background image for scenarios, font color, home button icon).
 3. Wrote unit tests for Sink to Swim mini game.
 4. Wrote documentation for Sink to Swim mini game.
-5. 
+5. Added Sink to Swim mini game to the game design document.
 
 **What issues or roadblocks have you encountered this week?**
 
-
+Everything goes pretty well.
 
 **Have they been resolved, and if so, how?**
 
-
+N/A
 
 **Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
 
-
+No.
 
 **Is further assistance necessary to resolve existing issues?**
 
-
+No.
 
 **What do you plan to accomplish next week?**
 
-
+The vocabulary matching mini game.
 
 **How does your progress compare to your project schedule?**
+
+On time.
