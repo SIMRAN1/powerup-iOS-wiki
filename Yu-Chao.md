@@ -256,3 +256,41 @@ The vocabulary matching mini game.
 **How does your progress compare to your project schedule?**
 
 On time.
+
+***
+### Weekly Status Report for Week 8
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+1. Completed the prototype of Vocab Matching mini game.
+2. Added App Icon.
+3. Added splash screen.
+4. Changed the UI of start scene.
+5. Added a replay button at the end of results view, so the players could now replay each scenario.
+
+**What issues or roadblocks have you encountered this week?**
+
+No.
+
+**Have they been resolved, and if so, how?**
+
+N/A
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+No.
+
+**Is further assistance necessary to resolve existing issues?**
+
+No.
+
+**What do you plan to accomplish next week?**
+
+* Complete the ending scene for Vocab Matching game.
+* Write documentation for Vocab Matching game.
+* Write unit tests for Vocab Matching game.
+* Add tutorial scenes for Minesweeper game & Sink to Swim game.
+
+**How does your progress compare to your project schedule?**
+
+On time.
