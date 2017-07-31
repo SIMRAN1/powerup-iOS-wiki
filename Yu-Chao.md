@@ -6,7 +6,7 @@
 | Monday  | 9:30 - 12:30, 14:00 - 18:00  | N/A | Slack |
 | Tuesday  | 9:30 - 12:30, 14:00 - 18:00 | Powerup-iOS | Slack |
 | Wednesday  | 9:30 - 12:30, 14:00 - 18:00 | All Teams PWR, 1:1 May | Slack |
-| Thursday  | 9:30 - 12:30, 14:00 - 18:00 | N/A | Slack |
+| Thursday  | 14:00 - 21:00 | N/A | Slack |
 | Friday  | 9:30 - 12:30, 14:00 - 18:00 | N/A | Slack |
 | Saturday  | REST | N/A | --- |
 | Sunday  | REST  | N/A | --- |
