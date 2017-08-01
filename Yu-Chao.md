@@ -294,3 +294,43 @@ No.
 **How does your progress compare to your project schedule?**
 
 On time.
+
+***
+### Weekly Status Report for Week 9
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+1. Added Travis CI status badge to the GitHub repo.
+2. Added tutorial scenes for each mini game.
+3. Added "running out of questions" ending condition to Sink to Swim game.
+4. Updated ending image for Sink to Swim game.
+5. Wrote unit tests and documentation for Vocab Matching game.
+6. Adjusted tile movement and tile spawn pattern in Vocab Matching game.
+7. Added clipboard star blinking animation to Vocab Matching game.
+8. Changed the choices of scenarios to a scroll view.
+9. Updated hospital scenario background image. Updated dialogue UI, so that they have lighter stripes.
+
+**What issues or roadblocks have you encountered this week?**
+
+No.
+
+**Have they been resolved, and if so, how?**
+
+N/A
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+No.
+
+**Is further assistance necessary to resolve existing issues?**
+
+No.
+
+**What do you plan to accomplish next week?**
+
+* Complete game transition of Map Scene (darken the buildings if they aren't completed).
+* 
+
+**How does your progress compare to your project schedule?**
+
+On time.
