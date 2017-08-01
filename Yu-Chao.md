@@ -329,7 +329,9 @@ No.
 **What do you plan to accomplish next week?**
 
 * Complete game transition of Map Scene (darken the buildings if they aren't completed).
-* 
+* Test and try to make the sink animation of Sink to Swim game look better.
+* Apply newly designed UI.
+* Do some research on sound effects for the game.
 
 **How does your progress compare to your project schedule?**
 
