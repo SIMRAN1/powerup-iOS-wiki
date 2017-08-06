@@ -16,7 +16,7 @@
 I am a second year computer science major at the Chinese University of Hong Kong. I am enthusiastic about the fields where art and technology meet, particularly, digital game design and development. Aside from programming, I  enjoy drawing and writing.
 
 ## Profile Links
-[Gmail](mailto:casd82@gmail.com) | [My Blog](http://shinerightstudio.com) | [GitHub](http://github.com/casd82) | [LinkedIn](https://www.linkedin.com/in/佑-趙-a55b85b2/) | [Facebook](https://www.facebook.com/casd82.yuchao)
+[Gmail](mailto:casd82@gmail.com) | [Blog](http://shinerightstudio.com) | [GitHub](http://github.com/casd82) | [LinkedIn](https://www.linkedin.com/in/佑-趙-a55b85b2/) | [Facebook](https://www.facebook.com/casd82.yuchao)
 
 ## GSoC17 Project Proposal
 [Proposal Link](https://drive.google.com/file/d/0B_Q_nlCgdQF4eDRIajVmck9lTkE/view?usp=sharing)
