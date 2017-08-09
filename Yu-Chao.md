@@ -336,3 +336,38 @@ No.
 **How does your progress compare to your project schedule?**
 
 On time.
+
+***
+### Weekly Status Report for Week 10
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+1. Implemented the building locks for Map Scene.
+2. Added more tiles to Vocab Matching game.
+3. Refactored Vocab Matching game.
+4. Updated Sink to Swim game animation.
+
+**What issues or roadblocks have you encountered this week?**
+
+No.
+
+**Have they been resolved, and if so, how?**
+
+N/A
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+No.
+
+**Is further assistance necessary to resolve existing issues?**
+
+No.
+
+**What do you plan to accomplish next week?**
+
+* Fix inconsistencies between Android.
+* Apply the newly designed Shop UIs.
+
+**How does your progress compare to your project schedule?**
+
+On time.
