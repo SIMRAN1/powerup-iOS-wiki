@@ -371,3 +371,37 @@ No.
 **How does your progress compare to your project schedule?**
 
 On time.
+
+***
+### Weekly Status Report for Week 11
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+1. Updated the Shop Scene with the new UI elements.
+2. Added the new ending scene to Result Scene.
+
+**What issues or roadblocks have you encountered this week?**
+
+No.
+
+**Have they been resolved, and if so, how?**
+
+N/A
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+No.
+
+**Is further assistance necessary to resolve existing issues?**
+
+No.
+
+**What do you plan to accomplish next week?**
+
+* Replace the old avatars with the newly designed ones.
+* Find inconsistencies between iOS & Android version and list them.
+* Find little bugs and open them on GitHub as issues.
+
+**How does your progress compare to your project schedule?**
+
+On time.
