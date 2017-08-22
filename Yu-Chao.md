@@ -405,3 +405,37 @@ No.
 **How does your progress compare to your project schedule?**
 
 On time.
+
+***
+### Weekly Status Report for Week 12
+
+**What have you accomplished this week (list specific items accomplished)?**
+
+1. Applied the new avatar to the game.
+2. Discussed the solutions with Sachin about the inconsistencies between iOS and Android and fixed them.
+
+**What issues or roadblocks have you encountered this week?**
+
+No.
+
+**Have they been resolved, and if so, how?**
+
+N/A
+
+**Do any of the issues or roadblocks still exist and what steps have been taken to resolve them?**
+
+No.
+
+**Is further assistance necessary to resolve existing issues?**
+
+No.
+
+**What do you plan to accomplish next week?**
+
+* Prepare for the live demo.
+* Polish documentation.
+* Write blog post Systers' Blogger.
+
+**How does your progress compare to your project schedule?**
+
+On time.
