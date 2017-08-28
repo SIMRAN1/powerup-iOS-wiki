@@ -42,7 +42,12 @@ Spread throughout the game to tackle situations/topics in an indirect but playfu
 	 	
 
 ##Official Documentation
-https://docs.google.com/document/d/1WkhcVrUs-B_vlCBknNPYqxqc7_7wVrBF2pV0bKu_EiQ/edit?usp=sharing
+
+[2017](https://docs.google.com/document/d/1-45bBWAL8oh5o_1bc42BXGDKTHlGrQW0PCN9gFtlt6U/)
+[2016](https://docs.google.com/document/d/1N_-zmmjPn6D1H6wTdF4z66mFGT3af_FWbfGvLKkeY1w/)
+[2016](https://docs.google.com/document/d/1WkhcVrUs-B_vlCBknNPYqxqc7_7wVrBF2pV0bKu_EiQ/)
+
+
 		
 
 
