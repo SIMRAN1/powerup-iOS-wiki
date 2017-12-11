@@ -71,7 +71,7 @@ See the full [Code of Conduct](https://github.com/systers/powerup-iOS/blob/maste
 
 ***
 
-To connect with Systers Community sign up at  [Systers Open Source Slack](http://systers.io/slack-systers-opensource/).
+To connect to Systers Community sign up at  [Systers Open Source Slack](http://systers.io/slack-systers-opensource/).
 
 
 		
