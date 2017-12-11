@@ -1,4 +1,4 @@
-# Steps to Setup PowerUp - iOS 
+## Steps to Setup PowerUp - iOS 
 
 * Login to Github with your username and password.
 * Paste the URL https://github.com/systers/powerup-iOS/ in the URL Bar of your browser. 
