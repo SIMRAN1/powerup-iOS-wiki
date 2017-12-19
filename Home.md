@@ -2,8 +2,11 @@
 1. <a href="#overview">PowerUp - Overview</a>
 2. <a href="#goals">Goals and Objectives</a>
 3. <a href="#mechanics">Game Content and Mechanics</a>
-4. <a href="#diagram">Schematic Diagram of Game</a>
-5. <a href="#code">Code of Conduct</a>
+4. <a href="#screenshots">Game Screenshots</a>
+5. <a href="#diagram">Schematic Diagram of Game</a>
+6. <a href="#code">Code of Conduct</a>
+
+To learn more about PowerUp, see the [PowerUp Android wiki.](https://github.com/systers/powerup-android/wiki)
 
 <a name="overview" />
 
@@ -21,6 +24,8 @@ Rosie: A) I am down       B) I don't think so
 Systers is an international community for all women involved in the technical aspects of computing. We welcome the participation of women technologists of all ages and at any stage of their studies or careers.  
 
 We engage our community by contributing to open source, collaborating with the global community, and learning/enhancing our coding skills.  We are committed to providing a safe, positive online community for our many volunteers that offer their skills, time, and commitment to our projects.
+
+To learn more about Systers, see the [About Systers page.](https://github.com/systers/powerup-android/wiki/About-Systers)
 
 <a name="goals" />
 
@@ -53,6 +58,22 @@ might be considered “poor decision making”
 #### Mini Games: 
 * Mini games will be integrated indirectly to indirect address key information surrounding reproductive health.
 * Mini games provides a mental break from the story line.
+
+<a name="screenshots" />
+
+## Game Screenshots
+
+#### Home Page
+﻿![PowerUp Home Page](https://c1.staticflickr.com/5/4591/38458471654_9b5771429c_b.jpg)
+
+#### Avatar Room
+![PowerUp Avatar Room](https://c1.staticflickr.com/5/4601/25248476408_6964d5b56a_b.jpg)
+
+#### Map
+![PowerUp Map](https://c1.staticflickr.com/5/4739/39135821742_fc25f46e24_b.jpg)
+
+#### Mini Game Example: Minesweeper
+![Minesweeper](https://c1.staticflickr.com/5/4587/39135821422_83821d39df_b.jpg)
 
 <a name="diagram" />
 
