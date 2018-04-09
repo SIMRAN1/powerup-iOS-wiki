@@ -10,16 +10,18 @@ We welcome anyone to contribute to this Open Source Project. For any further que
 
 # Contributing and developing a feature
 
-1. Create an issue and/or assign yourself to an issue on Github
-2. Make sure you are in the master branch git checkout master
-3. Sync your copy git pull
-4. Create a new branch with a meaningful name git checkout -b branch_name
-5. Develop your feature on Android Studio and run it using the emulator or connecting your own Android device
-6. Clean your project from Android Studio Build/Clean project
-7. Add the files you changed git add file_name (avoid using git add .)
-8. Commit your changes git commit -m "Message briefly explaining the feature"
-9. Keep one commit per feature. If you forgot to add changes, you can edit the previous commit git commit --amend
-10. Push to your repo git push origin branch-name
-11. Go into the Github repo and create a pull request explaining your changes
-12. If you are requested to make changes, edit your commit using git commit --amend, push again and the pull request will edit automatically
-13. You will need to add a message on the pull request notifying your changes to your reviewer
+1. Make sure you are in the develop branch `git checkout develop`
+2. Sync your copy `git pull --rebase upstream develop`
+3. Create a new branch with a meaningful name `git checkout -b branch_name`
+4. Develop your feature on Xcode IDE  and run it using the simulator or connecting your own iphone.
+5. Build your project in Xcode IDE by pressing Build or using shortcut Command+B.
+6. Add the files you changed `git add file_name` (avoid using `git add .`)
+7. Commit your changes `git commit -m "Message briefly explaining the feature"`
+8. Keep one commit per feature. If you forgot to add changes, you can edit the previous commit `git commit --amend`
+9. Push to your repo `git push origin branch-name`
+10. Go into [the Github repo](https://github.com/systers/powerup-iOS/) and create a pull request explaining your changes
+11. If you are requested to make changes, edit your commit using `git commit --amend`, push again and the pull request will edit automatically.
+12.If you have more commits try squashing them into one commit.
+13.git rebase -i origin/master~n master(having n number of commits).
+14.Force push with command git push origin +branchname.
+15. You need to follow specific pull request template and then create a descriptive pull request mentioning your changes and notifying it to your reviewer.
