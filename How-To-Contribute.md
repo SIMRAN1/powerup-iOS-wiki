@@ -1,4 +1,4 @@
-# Welcome to PowerUp Android Project.
+# Welcome to PowerUp iOS Project.
 * You can subscribe to our [systers-dev](http://systers.org/mailman/listinfo/systers-dev) mailing list and shoot an introductory email.
 * You can join our [slack channel](http://systers.io/slack-systers-opensource/) and navigate to #powerup channel
 
