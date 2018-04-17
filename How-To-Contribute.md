@@ -12,7 +12,7 @@
 1. Fix a new issue and submit a PR without reporting and getting it approved at first.
 2. Fix an issue assigned to somebody else and submit a PR before the assignee does.
 3. Report issues which are previously reported by others. (Please check the closed issues too before you report an issue).
-4. Suggest completely new developments in the issue list. (Please use the mailing list/slack channel for this kind of suggestions. Use issue list to suggest bugs/features in the already implemented sections).
+4. Suggest completely new developments in the issue list. (Please use the mailing list/slack channel for this kind of suggestions. Use issue list to suggest bugs/features in the already implemented sections.)
 
 
 
