@@ -5,7 +5,7 @@
 ## Contribution Guidelines
 * Pick an open issue from the [issue list](https://github.com/systers/powerup-iOS/issues), claim it in the comments,after approval fix the issue and send us a pull request.
 * Create a new issue,a community member will get back to you and once approved send the PR for the same.
-* Please go through our issue list first(open as well as closed) and make sure the issues you are reporting  do not replicate the issues already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
+* Please go through our issue list first(open as well as closed) and make sure the issues you are reporting  does not replicate the issues already reported. If you have issues on multiple pages, report them separately. Do not combine them into a single issue.
 * All the PR’s need to be sent to the appropriate branch (usually "develop").
 
 ## Avoid doing the following mistakes
